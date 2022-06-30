@@ -26,11 +26,8 @@ https://user-images.githubusercontent.com/70580401/176614278-323f53ca-bf51-4777-
 # List Screen
 
 <img width="188" alt="Simulator Screen Shot - iPhone 12 - 2022-06-30 at 12 11 44" src="https://user-images.githubusercontent.com/70580401/176615762-f758311c-9d64-46cb-b74a-64c739da9aa6.png">
-
 <img width="188" alt="Simulator Screen Shot - iPhone 12 - 2022-06-30 at 12 45 51" src="https://user-images.githubusercontent.com/70580401/176616206-ffd1be50-4b38-4082-87e5-aaed4d897b08.png">
-
 <img width="188" alt="Simulator Screen Shot - iPhone 12 - 2022-06-30 at 12 11 53" src="https://user-images.githubusercontent.com/70580401/176615817-81906a26-8691-457a-8355-131a40c645b6.png">
-
 <img width="188" alt="Simulator Screen Shot - iPhone 12 - 2022-06-30 at 12 12 03" src="https://user-images.githubusercontent.com/70580401/176615852-69d12785-340e-49a2-b0eb-9ebb74c424e6.png">
 
 
